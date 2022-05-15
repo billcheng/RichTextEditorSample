@@ -1,0 +1,3 @@
+.noOutlineOnFocus > div:focus {
+  outline: none;
+}
